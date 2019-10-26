@@ -1,6 +1,10 @@
 # Distributed Computing - Assignment - Lamport Clock
 This is the Task 2 of the DC Assignment 1 - BITS WILP 3rd Sem
 
+**Name:** Kalki Nethaji
+
+**ID:** 2018HT12003
+
 ## Setup
 In Ubuntu 18.04 OS, install gcc, make, rpcgen and rpcbind with the following commands
 ```bash
