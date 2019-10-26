@@ -16,4 +16,4 @@ apt install -y gcc make
 * Then, the timestamp for the processes will be shown.
 
 ## Screenshots
-![Capture](screenshot/Capture.png)
+![Capture](Screenshot/Capture.png)
